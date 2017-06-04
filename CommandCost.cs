@@ -39,7 +39,7 @@ namespace ZaupShop
         {
             get
             {
-                return "[v.]<name or id>";
+                return "[v]<name or id>";
             }
         }
         public List<string> Aliases

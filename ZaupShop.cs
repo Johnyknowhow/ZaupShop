@@ -32,7 +32,7 @@ namespace ZaupShop
                     },
                     {
                         "cost_command_usage",
-                        "Usage: /cost [v.]<name or id>."
+                        "Usage: /cost [v]<name or id>."
                     },
                     {
                         "sell_command_usage",
